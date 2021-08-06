@@ -1,0 +1,10 @@
+.controls button[data-state="subtitles"] {
+    height:85%;
+    text-indent:0;
+    font-size:16px;
+    font-size:1rem;
+    font-weight:bold;
+    color: yellow;
+    background: pink;
+    border-radius:2px;
+}
